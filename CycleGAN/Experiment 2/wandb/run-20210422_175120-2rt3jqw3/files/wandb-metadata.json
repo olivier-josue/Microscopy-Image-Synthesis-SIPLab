@@ -1,0 +1,28 @@
+{
+    "os": "Linux-4.19.112+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.7.10",
+    "heartbeatAt": "2021-04-22T17:51:23.248260",
+    "startedAt": "2021-04-22T17:51:20.590793",
+    "docker": null,
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "cpu_count": 2,
+    "cuda": "11.0.228",
+    "args": [
+        "--dataroot",
+        "./datasets/nemsimu2nemreal",
+        "--name",
+        "nemsimu2nemreal",
+        "--model",
+        "cycle_gan",
+        "--continue_train",
+        "--epoch_count",
+        "116"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "7ba260e0bfc2",
+    "username": "root",
+    "executable": "/usr/bin/python3"
+}
