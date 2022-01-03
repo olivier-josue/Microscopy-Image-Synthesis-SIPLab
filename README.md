@@ -13,14 +13,14 @@ Three experiments were developed in which the networks have been trained with a 
 Nematode silhouette (BLUE) **|** Synthetic nematode (GREEN)
 <br>
 <img src='CycleGAN/Experiment 1/imgs/exp1.gif' align="left" width=408>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### Experiment 2 results
 
 Nematode silhouette (BLUE) **|** Synthetic nematode (GREEN)
 <br>
 <img src='CycleGAN/Experiment 2/imgs/exp2.gif' align="left" width=408>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### Experiment 3 results
 
