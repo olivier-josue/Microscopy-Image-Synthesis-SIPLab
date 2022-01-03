@@ -13,21 +13,21 @@ Three experiments were developed in which the networks have been trained with a 
 Nematode silhouette (BLUE) **|** Synthetic nematode (GREEN)
 <br>
 <img src='CycleGAN/Experiment 1/imgs/exp1.gif' align="left" width=408>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### Experiment 2 results
 
 Nematode silhouette (BLUE) **|** Synthetic nematode (GREEN)
 <br>
 <img src='CycleGAN/Experiment 2/imgs/exp2.gif' align="left" width=408>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### Experiment 3 results
 
 Nematode silhouette (BLUE) **|** Synthetic nematode (GREEN)
 <br>
 <img src='CycleGAN/Experiment 3/imgs/exp3.gif' align="left" width=408>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 The graphs of the training process were displayed in [Weights & Biases](https://wandb.ai/olivier-j/Agrupaci%C3%B3n%20de%201,%202%20y%204?workspace=user-olivier-j "Weights \& Biases") and the fidelity of the generated images using confusion matrices and perceptual realism, respectively.
 
