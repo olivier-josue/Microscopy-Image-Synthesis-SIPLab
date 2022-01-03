@@ -1,4 +1,4 @@
-<img src='imgs/horse2zebra.gif' align="right" width=384>
+<img src='docs/cont_nema.png' align="right" width=384>
 
 <br><br><br>
 
@@ -6,7 +6,7 @@
 
 I provide CycleGAN application for unpaired image-to-image translation in PyTorch. A image synthesis to provide a higher quality database for model training with deep learning algorithms and thus overcome the scarcity of labelless data in the [SIPLAB laboratory](http://www.ie.tec.ac.cr/palvarado/pmwiki/index.php/Proyectos/Nematodos "SIPLAB laboratory"). 
 
-Three experiments were developed in which the networks have been trained with a new database, generating realistic microscopy nematode images: 
+Three experiments are developed in which the networks have been trained with a new database, generating different quality grades of realistic microscopy nematode images: 
 
 ### Experiment 1 results
 
@@ -30,7 +30,7 @@ Nematode silhouette (BLUE) **|** Synthetic nematode (GREEN)
 <br><br><br><br><br><br><br><br><br>
 
 ## Metrics used
-The graphs of the training process were displayed in [Weights & Biases](https://wandb.ai/olivier-j/Agrupaci%C3%B3n%20de%201,%202%20y%204?workspace=user-olivier-j "Weights \& Biases") and the fidelity of the generated images using confusion matrices and perceptual realism, respectively.
+The graphs of the training process are displayed in [Weights & Biases](https://wandb.ai/olivier-j/Agrupaci%C3%B3n%20de%201,%202%20y%204?workspace=user-olivier-j "Weights \& Biases") and the fidelity of the generated images using confusion matrices and perceptual realism, respectively.
 
 ## About code
 The code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesung), and supported by [Tongzhou Wang](https://ssnl.github.io/).
