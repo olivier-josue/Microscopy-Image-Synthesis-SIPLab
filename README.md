@@ -1,6 +1,6 @@
-<img src='docs/cont_nema.png' align="right" width=384>
+<img src='docs/cont_nema.png' align="right" width=360>
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 # CycleGAN for augmentation of digital optical microscopy nematode images
 
