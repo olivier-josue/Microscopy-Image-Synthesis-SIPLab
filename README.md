@@ -46,7 +46,7 @@ Image-to-Image Translation with Conditional Adversarial Networks.<br>
 [Phillip Isola](https://people.eecs.berkeley.edu/~isola), [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz), [Tinghui Zhou](https://people.eecs.berkeley.edu/~tinghuiz), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros). In CVPR 2017. [[Bibtex]](http://people.csail.mit.edu/junyanz/projects/pix2pix/pix2pix.bib)
 
 ## Talks
-Thesis slides: [pdf](docs/presentacion.pdf)
+Thesis slides: [pdf](https://drive.google.com/file/d/1Y0e3I6Rxdajq4lwMQUTEQ-Iqa0rNZmQN/view?usp=sharing)
 
-Final graduation thesis report: [pdf](docs/informe.pdf)
+Final graduation thesis report: [pdf](https://drive.google.com/file/d/1I8zBjsXpmPfnJPUqp3m5_AQop7Ef4NHr/view?usp=sharing)
 
